@@ -1,5 +1,5 @@
 # EDA-on-Video-Games-Sales
-Exploratory Data Analysis on Video Games Sales.
+Exploratory Data Analysis on Video Games Sales. This EDA includes the exploration in statistical measures and graphical visualizations.
 
 
 ### About the Dataset:
